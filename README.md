@@ -1,13 +1,9 @@
-# OpenPsych-a-Flutter-based-Application
-Certainly! Here's a sample README file for your OpenPsyche application:
 
----
-
-# OpenPsyche
+# OpenPsych
 
 ## Overview
 
-OpenPsyche is a comprehensive mental wellness application designed to support users in their journey towards better mental health. Developed with Dart language for frontend development and integrated with ChatGPT API for AI chatbot functionality, OpenPsyche offers a range of features including personalized diet plans, exercise routines, curated music playlists, and AI chatbot support.
+OpenPsych is a comprehensive mental wellness application designed to support users in their journey towards better mental health. Developed with Dart language for frontend development and integrated with ChatGPT API for AI chatbot functionality, OpenPsyche offers a range of features including personalized diet plans, exercise routines, curated music playlists, and AI chatbot support.
 
 ## Features
 
